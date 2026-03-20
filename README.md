@@ -70,8 +70,3 @@ This project allows users to read and modify MP3 metadata using C. It works by a
 ## ⭐ Note
 This is a learning project developed to understand file handling and metadata processing in C.
 ```
-
-
-
-If you want next:
-👉 I’ll prepare **interview questions from this project** (very important)
