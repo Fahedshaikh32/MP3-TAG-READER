@@ -63,4 +63,6 @@ This project allows users to read and modify MP3 metadata using C. It works by a
 ---
 
 ## 👨‍💻 Author
-**Fahed Shaikh**
+Fahed Akil Shaikh
+
+Bachelor of Engineering (Electronics & Telecommunication)
