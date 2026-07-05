@@ -64,8 +64,3 @@ This project allows users to read and modify MP3 metadata using C. It works by a
 
 ## 👨‍💻 Author
 **Fahed Shaikh**
-
----
-
-## ⭐ Note
-This is a learning project developed to understand file handling and metadata processing in C.
